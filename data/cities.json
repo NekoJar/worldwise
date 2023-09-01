@@ -59,6 +59,18 @@
         "lng": "139.83576065304752"
       },
       "id": 98443199
+    },
+    {
+      "cityName": "Pyongyang",
+      "country": "Korea (the Democratic People's Republic of)",
+      "emoji": "🇰🇵",
+      "date": "2023-09-01T01:00:43.769Z",
+      "notes": "kim jong unch",
+      "position": {
+        "lat": "38.99343508956642",
+        "lng": "125.73317321231725"
+      },
+      "id": 98443200
     }
   ]
 }
