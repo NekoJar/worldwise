@@ -35,6 +35,42 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Bandung",
+      "country": "Indonesia",
+      "emoji": "🇮🇩",
+      "date": "2023-09-01T00:07:07.979Z",
+      "notes": "",
+      "position": {
+        "lat": "-6.908234708334048",
+        "lng": "107.64526548267162"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Tokyo",
+      "country": "Japan",
+      "emoji": "🇯🇵",
+      "date": "2023-09-01T00:10:24.955Z",
+      "notes": "",
+      "position": {
+        "lat": "35.715009114763575",
+        "lng": "139.77375653940732"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "San Francisco",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2023-09-01T00:19:06.282Z",
+      "notes": "addad",
+      "position": {
+        "lat": "37.759492746558564",
+        "lng": "-122.45606798244062"
+      },
+      "id": 98443200
     }
   ]
 }
