@@ -13,18 +13,6 @@
       "id": 73930385
     },
     {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": 17806751
-    },
-    {
       "cityName": "Berlin",
       "country": "Germany",
       "emoji": "🇩🇪",
@@ -35,18 +23,6 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
-    },
-    {
-      "cityName": "Bandung",
-      "country": "Indonesia",
-      "emoji": "🇮🇩",
-      "date": "2023-09-01T00:29:57.175Z",
-      "notes": "",
-      "position": {
-        "lat": "-6.921586212210337",
-        "lng": "107.6393398386174"
-      },
-      "id": 98443198
     },
     {
       "cityName": "Tokyo",
@@ -61,16 +37,40 @@
       "id": 98443199
     },
     {
-      "cityName": "Pyongyang",
-      "country": "Korea (the Democratic People's Republic of)",
-      "emoji": "🇰🇵",
-      "date": "2023-09-01T01:00:43.769Z",
-      "notes": "kim jong unch",
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-01T15:04:57.462Z",
+      "notes": "",
       "position": {
-        "lat": "38.99343508956642",
-        "lng": "125.73317321231725"
+        "lat": "40.41348366605419",
+        "lng": "-3.701610637209383"
       },
       "id": 98443200
+    },
+    {
+      "cityName": "Kyoto",
+      "country": "Japan",
+      "emoji": "🇯🇵",
+      "date": "2023-09-01T15:06:08.124Z",
+      "notes": "",
+      "position": {
+        "lat": "35.01305976432161",
+        "lng": "135.76775050892965"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Bandung",
+      "country": "Indonesia",
+      "emoji": "🇮🇩",
+      "date": "2023-09-01T15:07:59.160Z",
+      "notes": "",
+      "position": {
+        "lat": "-6.940044193611887",
+        "lng": "107.62209238078509"
+      },
+      "id": 98443202
     }
   ]
 }
